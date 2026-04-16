@@ -11,7 +11,7 @@ function retornalSaldoDeRankeadas(vitorias, derrotas){
 
 //valores de exemplo: 134 vitórias e 45 Vitórias
 
-let retornoDoSaldo = retornalSaldoDeRankeadas(134, 135)
+let retornoDoSaldo = retornalSaldoDeRankeadas(134, 45)
 
 while(retornoDoSaldo >= 0){
     if(retornoDoSaldo < 10){
